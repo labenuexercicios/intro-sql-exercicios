@@ -2,13 +2,13 @@
 Nesse exercício, começaremos a criar e popular as tabelas que **armazenarão as informações** do sistema do LabECommerce.
 
 
-## a) Criação da tabela de **clientes**
-- nome da tabela: **labe_clients**
+## a) Criação da tabela de **pessoas usuárias**
+- nome da tabela: **labe_users**
 - dados da tabela:
-  - id (tipo *INTEGER*, PK)
-  - email (tipo *TEXT*, obrigatório)
+  - id (tipo *TEXT*, PK)
+  - email (tipo *TEXT*, obrigatório, único)
   - password (tipo *TEXT*, obrigatório)
 
 
-## b) Populando a tabela de **clientes**
-- popule a tabela com pelo menos 3 clientes diferentes
+## b) Populando a tabela de **pessoas usuárias**
+- popule a tabela com pelo menos 3 users diferentes
