@@ -4,7 +4,7 @@ Continue a criar e popular as tabelas que **armazenarão as informações** do s
 
 ## a) Criação da tabela de **produtos**
 - nome da tabela: **products**
-- dados da tabela:
+- colunas da tabela:
   - id (*TEXT*, PK, único e obrigatório)
   - name (*TEXT* e obrigatório)
   - price (*REAL* e obrigatório)
