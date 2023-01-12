@@ -3,7 +3,7 @@ Nesse exercício, começaremos a criar e popular as tabelas que **armazenarão a
 
 
 ## a) Criação da tabela de **pessoas usuárias**
-- nome da tabela: **labe_users**
+- nome da tabela: **users**
 - dados da tabela:
   - id (tipo *TEXT*, PK)
   - email (tipo *TEXT*, obrigatório, único)
