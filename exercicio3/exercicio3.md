@@ -3,11 +3,12 @@ Continue a criar e popular as tabelas que **armazenarão as informações** do s
 
 
 ## a) Criação da tabela de **produtos**
-- nome da tabela: **labe_products**
+- nome da tabela: **products**
 - dados da tabela:
-  - id (tipo *TEXT*, PK)
-  - name (tipo *TEXT*, obrigatório, único)
-  - price (tipo *REAL*, obrigatório)
+  - id (*TEXT*, PK, único e obrigatório)
+  - name (*TEXT* e obrigatório)
+  - price (*REAL* e obrigatório)
+  - category (*TEXT* e obrigatório)
 
 
 ## b) Populando a tabela de **produtos**
