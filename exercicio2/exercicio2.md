@@ -6,7 +6,7 @@ Nesse exercício, começaremos a criar e popular as tabelas que **armazenarão a
 - nome da tabela: **users**
 - colunas da tabela:
   - id (*TEXT*, PK, único e obrigatório)
-  - email (TEXT*, único e obrigatório)
+  - email (*TEXT*, único e obrigatório)
   - password (*TEXT* e obrigatório)
 
 
