@@ -12,7 +12,10 @@ Para começar, vamos criar o banco de dados em si!
 **Lembre-se:** usaremos o arquivo com extensão **`.sql`** para construir nossas queries!
 
 
-**Dica Importante:** o github não consegue ler e comparar arquivos `.db`, por isso adicione no arquivo `.gitignore` uma linha escrita: `*.db`.
+## Adicionar `*.db` no .gitignore
+- O github não consegue ler e comparar arquivos `.db`, por isso adicione no arquivo `.gitignore` uma linha escrita: `*.db`.
+
+
 
 
 Caso tenha problemas com essa configuração, referencie o material async e/ou pergunte no fórum!
